@@ -26,3 +26,6 @@ Tento projekt slouží k detekci správného provedení dřepů z videozáznamu.
 
 ### requirements.txt
 - Obsahuje seznam požadovaných knihoven (včetně jejich verzí), které je nutné nainstalovat před spuštěním kódu (např. `yt-dlp`, `numpy`, `mediapipe`, `opencv-python`).
+
+## Autor
+Radovan Němec
